@@ -87,9 +87,11 @@ void setup(){
 
 LED OFF:
 
+<img width="1112" height="750" alt="image" src="https://github.com/user-attachments/assets/a9275190-b14d-4f63-84c3-399834e82fbe" />
 
 LED ON:
 
+<img width="832" height="738" alt="image" src="https://github.com/user-attachments/assets/3f49d963-8670-413c-96d3-3898fa225474" />
 
 # RESULT:
 
